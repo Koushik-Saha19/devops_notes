@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>My Notes</title>
+      <link>https://https://koushik-saha19.github.io/devops_notes/</link>
+      <description>Last 10 notes on My Notes</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Basics of Networking</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/DevOps/Basics-of-Networking</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/DevOps/Basics-of-Networking</guid>
+    <description>1.</description>
+    <pubDate>Sun, 15 Jun 2025 18:07:51 GMT</pubDate>
+  </item><item>
+    <title>Basics of Networking in Kubernetes</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/DevOps/Basics-of-Networking-in-Kubernetes</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/DevOps/Basics-of-Networking-in-Kubernetes</guid>
+    <description>Container Networking Basics (e.g., Docker, Kubernetes) Description: How individual containers communicate with each other and with the outside world.</description>
+    <pubDate>Sun, 15 Jun 2025 17:54:23 GMT</pubDate>
+  </item><item>
+    <title>Azure Services</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/DevOps/Azure-Services</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/DevOps/Azure-Services</guid>
+    <description>Popular Azure Services Compute Services Azure Virtual Machines (VMs): Description: Allows you to create and run virtual computers (servers) in the cloud.</description>
+    <pubDate>Sun, 15 Jun 2025 17:51:40 GMT</pubDate>
+  </item><item>
+    <title>AWS Services</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/DevOps/AWS-Services</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/DevOps/AWS-Services</guid>
+    <description>Popular AWS Services Compute Services Amazon EC2 (Elastic Compute Cloud): Description: This is like renting virtual computers (servers) in the cloud.</description>
+    <pubDate>Sun, 15 Jun 2025 17:48:07 GMT</pubDate>
+  </item><item>
+    <title>Docker and Dockerfile</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/DevOps/Docker-and-Dockerfile</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/DevOps/Docker-and-Dockerfile</guid>
+    <description>Dockerfile in High-Level Below is an example Dockerfile of a Java Spring-Boot application FROM eclipse-temurin:8-jdk ---- Base Image ADD risk-listener.jar app.jar ---- Adding the JAR file EXPOSE 8080 ---- exposing a port through which application will receive request ENV SPRING_PROFILES_ACTIVE=not-l...</description>
+    <pubDate>Sun, 15 Jun 2025 17:38:09 GMT</pubDate>
+  </item><item>
+    <title>Ansible</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/DevOps/Ansible</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/DevOps/Ansible</guid>
+    <description> Ansible is an open-source IT automation tool. It has many built-in modules which are dedicated for each task.</description>
+    <pubDate>Sun, 15 Jun 2025 14:28:33 GMT</pubDate>
+  </item><item>
+    <title>Home</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/</guid>
+    <description>My knowledge garden built with Quartz</description>
+    <pubDate>Sat, 14 Jun 2025 18:26:04 GMT</pubDate>
+  </item><item>
+    <title>CD Pipeline in High-Level</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/DevOps/CD-Pipeline-in-High-Level</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/DevOps/CD-Pipeline-in-High-Level</guid>
+    <description>Stages Git Checkout Docker image build - See Docker and Dockerfile Docker Image push Secret Deployment - See the Secret from AWS SM Deployment - See Types of Kubernetes Deployment Service Deployment Sending Notification .</description>
+    <pubDate>Sat, 14 Jun 2025 16:38:49 GMT</pubDate>
+  </item><item>
+    <title>CI Pipeline in High Level</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/DevOps/CI-Pipeline-in-High-Level</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/DevOps/CI-Pipeline-in-High-Level</guid>
+    <description></description>
+    <pubDate>Sat, 14 Jun 2025 16:38:49 GMT</pubDate>
+  </item><item>
+    <title>Questions</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/DevOps/Questions</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/DevOps/Questions</guid>
+    <description>What are some application of AI in DevOps? AI in DevOps, often termed AIOps, applies machine learning and artificial intelligence to enhance and automate IT operations and the entire software delivery lifecycle.</description>
+    <pubDate>Sat, 14 Jun 2025 16:38:49 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
