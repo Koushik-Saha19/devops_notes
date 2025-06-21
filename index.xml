@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>My Notes</title>
+      <link>https://https://koushik-saha19.github.io/devops_notes/</link>
+      <description>Last 10 notes on My Notes</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Docker and Dockerfile</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/DevOps/Docker-and-Dockerfile</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/DevOps/Docker-and-Dockerfile</guid>
+    <description>What is Docker? Docker is a platform that allows developers to build, ship, and run applications within lightweight, portable containers What is container? A container or a Docker container is a lightweight, isolated package that holds an application and everything it needs to run (code, libraries, ...</description>
+    <pubDate>Sat, 21 Jun 2025 07:16:56 GMT</pubDate>
+  </item><item>
+    <title>System Design</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/DevOps/System-Design</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/DevOps/System-Design</guid>
+    <description>For a DevOps engineer, the core focus in system design and architecture should be on Operability and Lifecycle Management.</description>
+    <pubDate>Wed, 18 Jun 2025 08:00:09 GMT</pubDate>
+  </item><item>
+    <title>Basics of System Design</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/DevOps/Basics-of-System-Design</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/DevOps/Basics-of-System-Design</guid>
+    <description>System Design Fundamentals (for DevOps): Understanding Requirements: Functional: What the system does (e.g., handles user login, processes payments).</description>
+    <pubDate>Wed, 18 Jun 2025 07:57:36 GMT</pubDate>
+  </item><item>
+    <title>Practical application of System Design</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/DevOps/Practical-application-of-System-Design</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/DevOps/Practical-application-of-System-Design</guid>
+    <description> Distributed Systems Concepts: Elaboration: Modern applications are almost always distributed, meaning components run on multiple machines, often across different geographical locations.</description>
+    <pubDate>Wed, 18 Jun 2025 07:50:49 GMT</pubDate>
+  </item><item>
+    <title>Basics of Networking in Kubernetes</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/DevOps/Basics-of-Networking-in-Kubernetes</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/DevOps/Basics-of-Networking-in-Kubernetes</guid>
+    <description>Kubernetes networking is the system that allows containers/pods on the same node or different nodes in a Kubernetes cluster to communicate with each other.</description>
+    <pubDate>Wed, 18 Jun 2025 03:51:48 GMT</pubDate>
+  </item><item>
+    <title>DevOps Learning Perspective</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/DevOps/DevOps-Learning-Perspective</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/DevOps/DevOps-Learning-Perspective</guid>
+    <description>“In every task what you do, it’s not about only implementation, but most importantly its about learning on high-level, in a bigger system what exactly your part is, try to understand the concept and develop a bird eye understanding of your task.</description>
+    <pubDate>Tue, 17 Jun 2025 07:22:11 GMT</pubDate>
+  </item><item>
+    <title>Environments</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/DevOps/Environments</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/DevOps/Environments</guid>
+    <description>Non-Prod Envs PaaS DEV: Playground for Developers, DevOps, etc peoples.</description>
+    <pubDate>Tue, 17 Jun 2025 07:08:37 GMT</pubDate>
+  </item><item>
+    <title>Networking (Basics)</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/DevOps/Networking-(Basics)</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/DevOps/Networking-(Basics)</guid>
+    <description>1.</description>
+    <pubDate>Tue, 17 Jun 2025 04:33:56 GMT</pubDate>
+  </item><item>
+    <title>Azure Services</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/DevOps/Azure-Services</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/DevOps/Azure-Services</guid>
+    <description>Popular Azure Services Compute Services Azure Virtual Machines (VMs): Description: Allows you to create and run virtual computers (servers) in the cloud.</description>
+    <pubDate>Sun, 15 Jun 2025 17:51:40 GMT</pubDate>
+  </item><item>
+    <title>AWS Services</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/DevOps/AWS-Services</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/DevOps/AWS-Services</guid>
+    <description>Popular AWS Services Compute Services Amazon EC2 (Elastic Compute Cloud): Description: This is like renting virtual computers (servers) in the cloud.</description>
+    <pubDate>Sun, 15 Jun 2025 17:48:07 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
