@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>My Notes</title>
+      <link>https://https://koushik-saha19.github.io/devops_notes/</link>
+      <description>Last 10 notes on My Notes</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>L 01 - Introduction</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/Computer-Networking/L-01---Introduction</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/Computer-Networking/L-01---Introduction</guid>
+    <description> Nodes are any device which can send or receive data or both, that is called node. Communication link can be wired or wireless link.</description>
+    <pubDate>Wed, 09 Jul 2025 04:49:22 GMT</pubDate>
+  </item><item>
+    <title>Scaling</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/System-Design/Scaling</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/System-Design/Scaling</guid>
+    <description>Scaling - Horizontal Scaling Vertical Scaling We may ask, why can’t we have a one big computer with lot of CPU and RAM to server the thousands of request? Problems are - When there are high traffic, if we want to do vertical scaling, in other words if we want to increase CPU &amp; RAM, then we need ...</description>
+    <pubDate>Tue, 08 Jul 2025 12:13:51 GMT</pubDate>
+  </item><item>
+    <title>API</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/System-Design/API</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/System-Design/API</guid>
+    <description>✅ What is an API? API = Application Programming Interface It’s like a waiter in a restaurant — takes your order, gives it to the kitchen, brings food back.</description>
+    <pubDate>Tue, 08 Jul 2025 03:31:25 GMT</pubDate>
+  </item><item>
+    <title>System Design</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/System-Design/System-Design</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/System-Design/System-Design</guid>
+    <description>For a DevOps engineer, the core focus in system design and architecture should be on Operability and Lifecycle Management.</description>
+    <pubDate>Tue, 08 Jul 2025 03:26:10 GMT</pubDate>
+  </item><item>
+    <title>LoadBalancers</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/DevOps/LoadBalancers</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/DevOps/LoadBalancers</guid>
+    <description>Load balancers can be of two types - Layer 4 or Transport Layer Load Balancer Layer 7 or Application Layer Load Balancer, where SSL or TLS offloading can happen - SSL or TLS Offloading In other words, Load balancer can work as any of two layers of OSI model - Layer 4 or Layer 7.</description>
+    <pubDate>Tue, 24 Jun 2025 10:46:07 GMT</pubDate>
+  </item><item>
+    <title>SSL or TLS Offloading</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/DevOps/SSL-or-TLS-Offloading</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/DevOps/SSL-or-TLS-Offloading</guid>
+    <description>SSL Offloading (more accurately called TLS Offloading as SSL is an older, less secure protocol that TLS superseded, but the term “SSL” stuck) is a technique where the process of encrypting and decrypting secure network traffic (HTTPS) is moved from your backend web servers to a dedicated device, typ...</description>
+    <pubDate>Tue, 24 Jun 2025 10:07:44 GMT</pubDate>
+  </item><item>
+    <title>L 16 - The OSI Reference Model (Part 3)</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/Computer-Networking/L-16---The-OSI-Reference-Model-(Part-3)</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/Computer-Networking/L-16---The-OSI-Reference-Model-(Part-3)</guid>
+    <description>Transport Layer &lt;img src = /assets/Pasted-image-20250622-40.png&gt; Port addressing - sender sends the data over some port and at the receiver end also the data is delivered to some port in which the concerned process/service must be listening.</description>
+    <pubDate>Tue, 24 Jun 2025 09:10:23 GMT</pubDate>
+  </item><item>
+    <title>L 24 - Basics of Router</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/Computer-Networking/L-24---Basics-of-Router</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/Computer-Networking/L-24---Basics-of-Router</guid>
+    <description></description>
+    <pubDate>Mon, 23 Jun 2025 17:38:12 GMT</pubDate>
+  </item><item>
+    <title>L 23 - Basics of Cisco Packet Tracer (Part 3) - Switch</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/Computer-Networking/L-23---Basics-of-Cisco-Packet-Tracer-(Part-3)---Switch</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/Computer-Networking/L-23---Basics-of-Cisco-Packet-Tracer-(Part-3)---Switch</guid>
+    <description>Tutorial Link - youtu.be/eFY6mi3lmRQ &lt;img src = /assets/Pasted-image-20250623-11.png&gt; &lt;img src = /assets/Pasted-image-20250623-12.png&gt; &lt;img src = /assets/Pasted-image-20250623-13.png&gt;.</description>
+    <pubDate>Mon, 23 Jun 2025 17:37:38 GMT</pubDate>
+  </item><item>
+    <title>L 22 - Basics of Cisco Packet Tracer (Part 2) - Hub</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/Computer-Networking/L-22---Basics-of-Cisco-Packet-Tracer-(Part-2)---Hub</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/Computer-Networking/L-22---Basics-of-Cisco-Packet-Tracer-(Part-2)---Hub</guid>
+    <description>Tutorial Link - youtu.be/FZ8hRDakHvI &lt;img src = /assets/Pasted-image-20250623-8.png&gt; Hub comes under star topology.</description>
+    <pubDate>Mon, 23 Jun 2025 17:36:57 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
