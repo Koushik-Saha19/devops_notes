@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>My Notes</title>
+      <link>https://https://koushik-saha19.github.io/devops_notes/</link>
+      <description>Last 10 notes on My Notes</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Ansible</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/DevOps/Tools/Ansible</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/DevOps/Tools/Ansible</guid>
+    <description> Ansible is an open-source IT automation tool. It has many built-in modules which are dedicated for each task.</description>
+    <pubDate>Sun, 20 Jul 2025 07:15:48 GMT</pubDate>
+  </item><item>
+    <title>Kubernetes Networking - Part 1</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/DevOps/K8-Networking/Kubernetes-Networking---Part-1</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/DevOps/K8-Networking/Kubernetes-Networking---Part-1</guid>
+    <description>Kubernetes networking is the system that allows containers/pods on the same node or different nodes in a Kubernetes cluster to communicate with each other.</description>
+    <pubDate>Sun, 20 Jul 2025 07:13:32 GMT</pubDate>
+  </item><item>
+    <title>Client Certificate Authentication</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/DevOps/K8-Authentication/Client-Certificate-Authentication</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/DevOps/K8-Authentication/Client-Certificate-Authentication</guid>
+    <description>This is used by: Cluster admins Kubelets (nodes) to securely talk to kube-apiserver It uses X.509 client certificates signed by a trusted CA.</description>
+    <pubDate>Sun, 20 Jul 2025 07:10:27 GMT</pubDate>
+  </item><item>
+    <title>Kubernetes Networking (Planning K8s Networking for Pod Deployment) - Part 3</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/DevOps/K8-Networking/Kubernetes-Networking-(Planning-K8s-Networking-for-Pod-Deployment)---Part-3</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/DevOps/K8-Networking/Kubernetes-Networking-(Planning-K8s-Networking-for-Pod-Deployment)---Part-3</guid>
+    <description>How Kubernetes Uses CIDR Blocks In Kubernetes, you typically allocate CIDRs for: PurposeUsed forExamplePod CIDRIP range from which pods get IPs10.244.0.0/16Service CIDRIPs assigned to ClusterIP services10.96.0.0/12Node CIDR (Optional)If needed for IPAM plugins192.168.0.0/16Subnet CIDR (Cloud)From VP...</description>
+    <pubDate>Sun, 20 Jul 2025 07:08:50 GMT</pubDate>
+  </item><item>
+    <title>K8 ConfigMap</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/DevOps/K8/K8-ConfigMap</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/DevOps/K8/K8-ConfigMap</guid>
+    <description>ConfigMap Purpose : Used to store non-sensitive configuration data. Data Type : Stores key-value pairs of strings. It can also store binary data.</description>
+    <pubDate>Sun, 20 Jul 2025 06:57:38 GMT</pubDate>
+  </item><item>
+    <title>K8 API Server</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/DevOps/K8/K8-API-Server</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/DevOps/K8/K8-API-Server</guid>
+    <description>🔍 What is the API Server in Kubernetes? The Kubernetes API server (called kube-apiserver) is the central control plane component that: Exposes the Kubernetes API Acts as the frontend for the entire Kubernetes control plane Is the only component that talks to the etcd (where cluster state is stored)...</description>
+    <pubDate>Sun, 20 Jul 2025 06:57:16 GMT</pubDate>
+  </item><item>
+    <title>All Gateways</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/System-Design/All-Gateways</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/System-Design/All-Gateways</guid>
+    <description>🌐 1.</description>
+    <pubDate>Sat, 19 Jul 2025 04:23:32 GMT</pubDate>
+  </item><item>
+    <title>PV vs PVC vs Storage Class</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/DevOps/K8/PV-vs-PVC-vs-Storage-Class</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/DevOps/K8/PV-vs-PVC-vs-Storage-Class</guid>
+    <description>Core concept: In K8, Volume which Persist or Persistent Volume can be create in two ways - Static way - here K8 admin provision the PV manually and keep them available in the cluster.</description>
+    <pubDate>Fri, 18 Jul 2025 17:53:35 GMT</pubDate>
+  </item><item>
+    <title>K8 Persistent Volume</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/DevOps/K8/K8-Persistent-Volume</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/DevOps/K8/K8-Persistent-Volume</guid>
+    <description>🧱 1. Pod Lifecycle and Ephemeral Storage Pods are ephemeral – if they die, all data inside the container is gone.</description>
+    <pubDate>Fri, 18 Jul 2025 17:22:40 GMT</pubDate>
+  </item><item>
+    <title>K8 Components</title>
+    <link>https://https://koushik-saha19.github.io/devops_notes/DevOps/K8/K8-Components</link>
+    <guid>https://https://koushik-saha19.github.io/devops_notes/DevOps/K8/K8-Components</guid>
+    <description>✅ Kubernetes Cluster Components 🔹 1. Control Plane Components Responsible for managing the overall state and orchestration of the cluster.</description>
+    <pubDate>Fri, 18 Jul 2025 16:56:37 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
